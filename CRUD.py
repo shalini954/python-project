@@ -2,7 +2,7 @@
 import os
 z=1
 while(True):
-    print("\n 1. Add Record")
+    print("\n 1. Add Record:")
     print("\n 2. Display All Record")
     print("\n 3. Search Student Record By Name")
     print("\n 4. Search Student Record By Rollno")
